@@ -1,0 +1,20 @@
+{
+ "built_at": "2026-11-19T15:41:56Z",
+ "data_date": "2026-11-19",
+ "rules": {
+  "ofac-50": {
+   "version": "2014-08-13",
+   "status": "in_force"
+  },
+  "bis-affiliates": {
+   "version": "2025-09-30",
+   "status": "stayed",
+   "stayed_until": "2027-01-10",
+   "stay_cite": "Stayed from November 10, 2025 by FR Doc. 2025-19846 (90 FR 50857, 'stayed until November 9, 2026'), further stayed by FR Doc. 2026-22793 (91 FR 70789, 'further stayed until January 10, 2027')"
+  },
+  "any-list-50": {
+   "version": "1",
+   "status": "in_force"
+  }
+ }
+}

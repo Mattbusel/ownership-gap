@@ -1,0 +1,63 @@
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ownership-gap"
+dynamic = ["version"]
+description = "A clean name screen is not a clean vendor. Shows, side by side, what a name-only OFAC/CSL screen clears and what OFAC 50%, BIS Affiliates, 1260H, 889, FCC Covered List, UFLPA and BIOSECURE catch, with the ownership chain and source per hit. Exits 1 on any gap."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+authors = [{ name = "Tensorust LLC" }]
+keywords = ["sanctions", "ofac", "50-percent-rule", "bis", "entity-list", "1260h", "section-889", "uflpa", "biosecure", "vendor-screening", "procurement", "compliance"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Financial and Insurance Industry",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Office/Business :: Financial",
+  "Typing :: Typed",
+]
+dependencies = []
+
+[project.optional-dependencies]
+fast = ["rapidfuzz>=3"]
+test = ["pytest>=7"]
+
+[project.scripts]
+ownership-gap = "ownership_gap.cli:run"
+
+[project.urls]
+Homepage = "https://github.com/Mattbusel/ownership-gap"
+Changelog = "https://github.com/Mattbusel/ownership-gap/blob/main/CHANGELOG.md"
+Issues = "https://github.com/Mattbusel/ownership-gap/issues"
+Data = "https://github.com/Mattbusel/us-restricted-parties"
+Rules = "https://github.com/Mattbusel/ownership-rules"
+
+[tool.hatch.version]
+path = "src/ownership_gap/__init__.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/ownership_gap"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "tests", "examples", "README.md", "CHANGELOG.md", "LICENSE"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests", "src"]
+addopts = "--doctest-modules --import-mode=importlib"
+
+[tool.ruff]
+line-length = 120
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF"]
+ignore = ["UP006", "UP035", "UP045", "UP007"]
+
+[tool.mypy]
+strict = true

@@ -1,0 +1,245 @@
+{
+ "results": [
+  {
+   "source": "Non-SDN Chinese Military-Industrial Complex Companies List (CMIC) - Treasury Department",
+   "name": "Hangzhou Hikvision Digital Technology Co., Ltd.",
+   "alt_names": [
+    "Hikvision",
+    "Hangzhou Hikvision Digital Technology"
+   ],
+   "programs": [
+    "CMIC-EO13959"
+   ],
+   "country": null,
+   "source_list_url": "https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList",
+   "id": "30946"
+  },
+  {
+   "source": "Non-SDN Chinese Military-Industrial Complex Companies List (CMIC) - Treasury Department",
+   "name": "HUAWEI TECHNOLOGIES CO., LTD.",
+   "alt_names": [
+    "Huawei Investment & Holding Co Ltd"
+   ],
+   "programs": [
+    "CMIC-EO13959"
+   ],
+   "country": null,
+   "source_list_url": "https://sanctionslist.ofac.treas.gov/Home/ConsolidatedList",
+   "id": "30947"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "ZTE Parsian",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "dd533a593568a5ba9078900c345859e7fd4f414f3015f254f5633ecf"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Complete Freight Solutions",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "30e7070eee67655dd70f94314b57c4ba7d4b8e59fdf65331b08959a7"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Research & Development Belgium NV",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "42b61358721784ed8a3c6a635d941b224c105cfea83f78f5f2d473cd"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies (Bolivia) S.R.L.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "85dd9610f2b90f3340cb0cbf02978bc1247425deb7a4c0cdfd70103d"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies (Yangon) Co., Ltd.,",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "19554e825cbd68942ba4493de436e1cb8ea3aaadb04c36a451d042e0"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Canada Co., Ltd.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "a1bc45ac9ef3031ba4f0cedfb175101502deff59e8eb2548d0339307"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Co., Ltd. (Huawei)",
+   "alt_names": [
+    "Shenzhen Huawei Technologies",
+    "Huawei Technology"
+   ],
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "d39cedb3c858f0854bb219b12b242575696b55fa06157d354692d967"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Co., Ltd. (Huawei). Affiliated Entity: Beijing Huawei Longshine Information Technology Co., Ltd.",
+   "alt_names": [
+    "Beijing Huawei Longshine"
+   ],
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "3b6ac79c0dc7a2b6ad4f50fa65aff0f57b81b2050e8ac21b94604b85"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Co., Ltd. (Huawei). Affiliated Entity: Hangzhou New Longshine Information Technology Co., Ltd.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "33ce60243abdac69a9752a2a7f0201b4138a78c861b988526447cc93"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Co., Ltd. (Huawei). Affiliated Entity: Hangzhou Huawei Communication Technology Co., Ltd.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "e10d3301f7a547ce475b0dbee903590f5473135e8ba921f7fc87e611"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Co., Ltd. (Huawei). Affiliated Entity: Hangzhou Huawei Enterprises",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "29d2c2e56aa5d34adc1d6a6b947b3351397ea1f0dfe8cdc31e544eef"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Xi'an Huawei Technologies Co., Ltd., Xi'an, Shaanxi",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "7d120a78076539b7ff344ea4299ba8b554e3bb150b1049d2439e5a5b"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Jamaica Company Limited",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "b8b0384a456de6c98b96cb1486a46270e6ee4d26d860c3d57652bc10"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Japan K.K.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "10a41293904bc02362709cc7dfb5cbd92fcd7762180bfac8505b9777"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Investment Co. Ltd.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "2f7e3c523ef57c0fb9c212d92d10104b47b519259d459e08ea810491"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Lebanon",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "2c3067d310219ba0feb293ceaeb1d391ba79f358bea856094f386f99"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Madagascar Sarl",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "717e9bd5f769aa07bc970e6ba0089a22a4c6532a15411a825845bcc5"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Cooperatief U.A.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "b1af4452e3fbe7862432be1292a60fdd0134d103acda6c307b1f5d7d"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Pakistan (Private) Limited",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "9316860d8436f5a96aa6f6dbab4bfd5ed3cebde58fb6625e95d2fe03"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Paraguay S.A.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "888dc6a81e3635b87b5fbac505db0835a35ff4c0c66548d5b3bf08c0"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies Lanka Company (Private) Limited",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "82e41b4570c13c75a3d6ace237eb53a5f3e3c157a1e85f374901f1ed"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Huawei Technologies (Australia) Pty Ltd.",
+   "alt_names": null,
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "7823054bedcd6a1bb3f022fc10ba670dca7f2266bc51a4e08499eab3"
+  },
+  {
+   "source": "Entity List (EL) - Bureau of Industry and Security",
+   "name": "Bel Huawei Technologies LLC",
+   "alt_names": [
+    "BellHuawei Technologies LLC."
+   ],
+   "programs": null,
+   "country": null,
+   "source_list_url": "https://www.bis.gov/regulations/ear/744#supplement-4-744",
+   "id": "cc5159b3481cb318ea1b6783c58cd265deda28470d5c4fafc6d8e6a7"
+  }
+ ]
+}
